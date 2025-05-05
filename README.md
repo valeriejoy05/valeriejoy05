@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there 👋 I'm Valerie Joy!
 
-<!--
-**valeriejoy05/valeriejoy05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Welcome to my GitHub profile! ✨
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... Figma
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... bethanyivalerie@gmail.com
-- 😄 Pronouns: ... she/her
-- ⚡ Fun fact: ... I'm a cat person
--->
+- 🔭 I’m currently working on improving my coding and creative skills.
+- 🌱 I’m currently learning **Figma**, web development, and Java programming.
+- 👯 I’m looking to collaborate on beginner-friendly projects and creative ideas.
+- 🤔 I’m always open to learning new things and improving my projects.
+- 💬 Ask me about tech, creative hobbies, or anything fun!
+- 📫 How to reach me: **bethanyivalerie@gmail.com**
+- 😄 Pronouns: **she/her**
+- ⚡ Fun fact: I’m a cat person 🐱 and love trying new things.
+
+---
+
+> *"Create, learn, and grow — one step at a time."*
