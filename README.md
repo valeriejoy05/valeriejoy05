@@ -1,41 +1,27 @@
-## Hi there 👋 I'm Valerie Joy Intong!
+# 💫 About Me:
+Hi there 👋 I'm Valerie Joy Intong!<br><br>✨ I’m a working student, youth leader, and passionate content creator from the College of Computing Studies. I have 5+ years of experience in **video editing, graphic design**, and **social media management** — creating meaningful content for businesses, organizations, and my church community.<br><br>🔭 I’m currently working on:<br>- Video editing and graphic design projects for local businesses and community events<br>- Leading my church’s media ministry team as a **Video Editor | Graphic Designer | Social Media Manager**<br>- Creative projects using **Adobe Premiere Pro**, **Photoshop**, **Canva**, and **Lightroom**<br><br>🌱 I’m currently learning:<br>- Figma for UI/UX design<br>- New social media trends and video engagement strategies<br><br>👯 I’m looking to collaborate on:<br>- Video editing projects<br>- Creative media content for events and online campaigns<br>- Social media management plans and designs<br><br>🤔 I’m looking for help with:<br>- Improving my UI/UX design skills<br>- Growing my project management and leadership experience in media-related fields<br><br>💬 Ask me about:<br>- Video editing tips and techniques<br>- Social media content ideas<br>- How to build a media ministry team from scratch<br><br>📫 How to reach me:<br>- 📧 bethanyivalerie@gmail.com<br>- 📱 +63 938 430 4604<br><br>😄 Pronouns:<br>- She/Her<br><br>⚡ Fun fact:<br>- I'm a cat person 🐱 and I love turning simple stories into creative videos!<br><br>---<br><br>> "Leadership is not about being the best — it’s about bringing out the best in others."<br><br>
 
-✨ I’m a working student, youth leader, and passionate content creator from the College of Computing Studies. I have 5+ years of experience in **video editing, graphic design**, and **social media management** — creating meaningful content for businesses, organizations, and my church community.
 
-### 🔭 I’m currently working on:
-- Video editing and graphic design projects for local businesses and community events
-- Leading my church’s media ministry team as a **Video Editor | Graphic Designer | Social Media Manager**
-- Creative projects using **Adobe Premiere Pro**, **Photoshop**, **Canva**, and **Lightroom**
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/valeriejoy.intong.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/me_12ow/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/intong-valerie-joy-g-90904a299/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@valerieintong1292) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:valeriejoy.intong@sccpag.edu.ph) 
 
-### 🌱 I’m currently learning:
-- **Figma** for UI/UX design
-- New social media trends and video engagement strategies
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=valeriejoy05&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=valeriejoy05&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=valeriejoy05&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 👯 I’m looking to collaborate on:
-- Video editing projects
-- Creative media content for events and online campaigns
-- Social media management plans and designs
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=valeriejoy05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🤔 I’m looking for help with:
-- Improving my UI/UX design skills
-- Growing my project management and leadership experience in media-related fields
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 💬 Ask me about:
-- Video editing tips and techniques
-- Social media content ideas
-- How to build a media ministry team from scratch
-
-### 📫 How to reach me:
-- 📧 **bethanyivalerie@gmail.com**
-- 📱 **+63 938 430 4604**
-
-### 😄 Pronouns:
-- **She/Her**
-
-### ⚡ Fun fact:
-- I'm a **cat person** 🐱 and I love turning simple stories into creative videos!
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=valeriejoy05&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=valeriejoy05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> *"Leadership is not about being the best — it’s about bringing out the best in others."*
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
